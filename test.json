@@ -17,10 +17,6 @@
     "cardOverview":"Turn you passion for driving into a well paid job by joining Lyft in Los Angeles",
     "cardEarnings":"$28 per hour",
     "seoTitle":"Lyft driver jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":91,
       "slug":"lyft",
@@ -86,10 +82,6 @@
     "cardOverview":"Turn on the DoorDash app to deliver food around Los Angeles, whenever you have some free time or you are in need of quick cash.",
     "cardEarnings":"$12 per hour",
     "seoTitle":"DoorDash food delivery jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":99,
       "slug":"doordash",
@@ -155,10 +147,6 @@
     "cardOverview":"Deliver for Postmates and make money on your own schedule",
     "cardEarnings":"$12 per hour",
     "seoTitle":"Postmates delivery jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":98,
       "slug":"postmates",
@@ -224,10 +212,6 @@
     "cardOverview":"Drive children and earn extra cash!",
     "cardEarnings":"",
     "seoTitle":"Become Zum driver in Los Angeles and drive with kids",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":670,
       "slug":"zum",
@@ -300,10 +284,6 @@
     "cardOverview":"Work with the elderly and make money in Los Angeles",
     "cardEarnings":"$22 per hour",
     "seoTitle":"Private caregiver jobs in Los Angeles, CA | ElderCare",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":302,
       "slug":"eldercare",
@@ -369,10 +349,6 @@
     "cardOverview":"Be your own boss and find housekeeping jobs in Los Angeles",
     "cardEarnings":"$30 per hour",
     "seoTitle":"Housekeeping jobs in Los Angeles, CA 💰 Housekeeper.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":301,
       "slug":"housekeeper",
@@ -438,10 +414,6 @@
     "cardOverview":"Make money as a pet sitter in LA",
     "cardEarnings":"$18 per hour",
     "seoTitle":"Become a pet sitter in Los Angeles, CA with PetSitter.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":303,
       "slug":"petsitter",
@@ -507,10 +479,6 @@
     "cardOverview":"Make money as a house sitter in Los Angeles",
     "cardEarnings":"$44 per day",
     "seoTitle":"House sitting jobs in Los Angeles, CA 💰 HouseSitter.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":299,
       "slug":"housesitter",
@@ -576,10 +544,6 @@
     "cardOverview":"Work as a child care provider in Los Angeles",
     "cardEarnings":"$20 per hour",
     "seoTitle":"Sitting jobs in Los Angeles, CA 💰 Sitter.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":300,
       "slug":"sitter",
@@ -645,10 +609,6 @@
     "cardOverview":"Become a Grubhub deliverer in Los Angeles and make money delivering food around town",
     "cardEarnings":"$12 per hour",
     "seoTitle":"Grubhub bike delivery jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":96,
       "slug":"grubhub",
@@ -714,10 +674,6 @@
     "cardOverview":"Make quick passive income by renting out your storage space in Los Angeles",
     "cardEarnings":"$200-$400 per month",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":210,
       "slug":"spacer",
@@ -783,10 +739,6 @@
     "cardOverview":"Earn money as an Airbnb host accommodating verified guests from around the world",
     "cardEarnings":"$650 per week",
     "seoTitle":"Become Airbnb host in Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":13,
       "slug":"airbnb",
@@ -852,10 +804,6 @@
     "cardOverview":"Become a stylist with Stella\u0026amp;Dot in Los Angeles!",
     "cardEarnings":"$400 per month",
     "seoTitle":"Online fashion stylist jobs in Los Angeles - Stella\u0026Dot",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":494,
       "slug":"stella-dot",
@@ -921,10 +869,6 @@
     "cardOverview":"Join the other passionate Rover pet sitter in Los Angeles, follow your own schedule and start earning quickly",
     "cardEarnings":"Up to $1000 per month",
     "seoTitle":"Dog walking \u0026 sitting jobs in Los Angeles, CA - Rover",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":93,
       "slug":"rover",
@@ -990,10 +934,6 @@
     "cardOverview":"Rent your car out to Turo\u0026#39;s community of approved drivers and make easy money",
     "cardEarnings":"$550 per month",
     "seoTitle":"Rent your car for money with Turo - Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":95,
       "slug":"turo",
@@ -1059,10 +999,6 @@
     "cardOverview":"Offer driving and moving services with Clutter and earn good money",
     "cardEarnings":"",
     "seoTitle":"Clutter - moving jobs in Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":578,
       "slug":"clutter",
@@ -1135,10 +1071,6 @@
     "cardOverview":"Run errands for people in Los Angeles and make money on your free time",
     "cardEarnings":"",
     "seoTitle":"Wait4Me jobs in Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":709,
       "slug":"wait4me",
@@ -1211,10 +1143,6 @@
     "cardOverview":"Rent your home to tourists and start making money",
     "cardEarnings":"$100 per night",
     "seoTitle":"Rent your home in Los Angeles with FlipKey",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":86,
       "slug":"flipkey",
@@ -1280,10 +1208,6 @@
     "cardOverview":"Become a host in Los Angeles with Homestay, join a global community in 150 countries and start making money",
     "cardEarnings":"$50 per night",
     "seoTitle":"Homestay Los Angeles - rent out free room \u0026 meet new friends",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":23,
       "slug":"homestay",
@@ -1349,10 +1273,6 @@
     "cardOverview":"Make easy money renting out your property with HomeAway",
     "cardEarnings":"$400 per month",
     "seoTitle":"HomeAway Los Angeles - rent out your property",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":21,
       "slug":"homeaway",
@@ -1418,10 +1338,6 @@
     "cardOverview":"Rent out your car and make money in Los Angeles",
     "cardEarnings":"$500 per month",
     "seoTitle":"Getaround car rental jobs Los Angeles - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":207,
       "slug":"getaround",
@@ -1487,10 +1403,6 @@
     "cardOverview":"Become a babysitter in Los Angeles with Sittercity",
     "cardEarnings":"$8 per hour",
     "seoTitle":"Childcare jobs in Los Angeles, CA - Sittercity",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":165,
       "slug":"sittercity",
@@ -1563,10 +1475,6 @@
     "cardOverview":"Rent out your property in Los Angeles with Vrbo and earn extra income",
     "cardEarnings":"$500 per month",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":22,
       "slug":"vrbo",
@@ -1632,10 +1540,6 @@
     "cardOverview":"Get an easy delivery job in Los Angeles and start making money on your own terms",
     "cardEarnings":"$15 per hour",
     "seoTitle":"Grocery shopping jobs in Los Angeles, CA - Instacart",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":100,
       "slug":"instacart",
@@ -1708,10 +1612,6 @@
     "cardOverview":"Earn money flexibly by babysitting and driving in LA with Kango",
     "cardEarnings":"$35 per hour",
     "seoTitle":"Make money on a flexible schedule driving and babysitting in LA | Kango",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":579,
       "slug":"kango",
@@ -1784,10 +1684,6 @@
     "cardOverview":"Offer your lawn care and gardening services and earn good money!",
     "cardEarnings":"$1,000 per week",
     "seoTitle":"Gardener jobs in Los Angeles - Lawn Love",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":541,
       "slug":"lawn-love",
@@ -1853,10 +1749,6 @@
     "cardOverview":"Make good money cleaning houses around Los Angeles",
     "cardEarnings":"$20 an hour",
     "seoTitle":"Maid jobs in Los Angeles - Merry Maids",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":567,
       "slug":"merry-maids",
@@ -1922,10 +1814,6 @@
     "cardOverview":"Deliver items for individuals and businesses in LA with EZER",
     "cardEarnings":"$20 an hour",
     "seoTitle":"Be your own boss delivering in LA with EZER",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":581,
       "slug":"ezer",
@@ -1991,10 +1879,6 @@
     "cardOverview":"Earn extra cash in your free time online with Clixsense",
     "cardEarnings":"$1 per survey",
     "seoTitle":"Work from home jobs in/near LA - Clixsense",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":577,
       "slug":"clixsense",
@@ -2060,10 +1944,6 @@
     "cardOverview":"Earn as a professional handyman in Los Angeles",
     "cardEarnings":"$130 per task",
     "seoTitle":"Handyman jobs in Los Angeles – Porch",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":507,
       "slug":"porch",
@@ -2129,10 +2009,6 @@
     "cardOverview":"Rent out your free space as storage space and earn!",
     "cardEarnings":"$500 per year",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":461,
       "slug":"neighbor",
@@ -2198,10 +2074,6 @@
     "cardOverview":"Make money off your empty parking space",
     "cardEarnings":"$10 per day",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":108,
       "slug":"spothero",
@@ -2250,75 +2122,6 @@
     }
   },
   {
-    "id":1969,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://www.mealsharing.com/host/meals/new",
-    "salary":"10",
-    "salaryTranslation":"jobOffer.salaryUnits.plate",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Home-chef",
-    "cardOverview":"Share your best dishes with hungry clientele in exchange for money",
-    "cardEarnings":"$10 per plate",
-    "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":123,
-      "slug":"meal-sharing",
-      "orgSlug":"meal-sharing",
-      "name":"Meal Sharing",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":27,
-        "slug":"home-chef",
-        "orgSlug":"home-chef",
-        "name":"Home-Cooking",
-        "role":"Chef"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":1989,
     "rating":0.0,
     "ratingCount":0,
@@ -2336,10 +2139,6 @@
     "cardOverview":"Share healthy vegetarian meals with your guests and get paid green for green dishes",
     "cardEarnings":"$10 per plate",
     "seoTitle":"Vegan jobs in Los Angeles - Vegvisits",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":129,
       "slug":"vegvisits",
@@ -2395,34 +2194,30 @@
     }
   },
   {
-    "id":5109,
-    "rating":4.0,
-    "ratingCount":1,
+    "id":1969,
+    "rating":0.0,
+    "ratingCount":0,
     "reviewCount":0,
-    "earningsRating":4.0,
-    "lowOnCostRating":4.0,
-    "customerAvailabilityRating":4.0,
-    "easyToStartRating":4.0,
-    "url":"https://us.letgo.com/en",
-    "salary":"50",
-    "salaryTranslation":"jobOffer.salaryUnits.item",
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://www.mealsharing.com/host/meals/new",
+    "salary":"10",
+    "salaryTranslation":"jobOffer.salaryUnits.plate",
     "weight":0.0,
     "cardLabel":"",
-    "cardTitle":"Online seller",
-    "cardOverview":"Earn money by selling your unused items online with Letgo",
-    "cardEarnings":"$50 per item",
-    "seoTitle":"Sell your things online with Letgo and earn an extra income on the go - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
+    "cardTitle":"Home-chef",
+    "cardOverview":"Share your best dishes with hungry clientele in exchange for money",
+    "cardEarnings":"$10 per plate",
+    "seoTitle":"",
     "partner":{
-      "id":457,
-      "slug":"letgo",
-      "orgSlug":"letgo",
-      "name":"Letgo",
-      "auth0ClientId":null,
-      "jobPostingEnabled":false,
+      "id":123,
+      "slug":"meal-sharing",
+      "orgSlug":"meal-sharing",
+      "name":"Meal Sharing",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
       "jobLocationTelecommuteEnabled":false,
       "prerequisitesRequired":false,
       "buttonLabel":null
@@ -2430,11 +2225,11 @@
     "prerequisiteLogic":null,
     "categories":[
       {
-        "id":44,
-        "slug":"selling-online",
-        "orgSlug":"selling-online",
-        "name":"Selling Online",
-        "role":""
+        "id":27,
+        "slug":"home-chef",
+        "orgSlug":"home-chef",
+        "name":"Home-Cooking",
+        "role":"Chef"
       }],
     "city":{
       "id":38,
@@ -2481,10 +2276,6 @@
     "cardOverview":"Make money writing blog posts for strangers on Verblio",
     "cardEarnings":"$50 per blog post",
     "seoTitle":"Online content writing jobs - Verblio",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":154,
       "slug":"verblio",
@@ -2533,6 +2324,71 @@
     }
   },
   {
+    "id":5109,
+    "rating":4.0,
+    "ratingCount":1,
+    "reviewCount":0,
+    "earningsRating":4.0,
+    "lowOnCostRating":4.0,
+    "customerAvailabilityRating":4.0,
+    "easyToStartRating":4.0,
+    "url":"https://us.letgo.com/en",
+    "salary":"50",
+    "salaryTranslation":"jobOffer.salaryUnits.item",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Online seller",
+    "cardOverview":"Earn money by selling your unused items online with Letgo",
+    "cardEarnings":"$50 per item",
+    "seoTitle":"Sell your things online with Letgo and earn an extra income on the go - AppJobs",
+    "partner":{
+      "id":457,
+      "slug":"letgo",
+      "orgSlug":"letgo",
+      "name":"Letgo",
+      "auth0ClientId":null,
+      "jobPostingEnabled":false,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":44,
+        "slug":"selling-online",
+        "orgSlug":"selling-online",
+        "name":"Selling Online",
+        "role":""
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":1976,
     "rating":0.0,
     "ratingCount":0,
@@ -2550,10 +2406,6 @@
     "cardOverview":"Rent out your motorhome or camper and make money on RVshare",
     "cardEarnings":"$1,000 per month",
     "seoTitle":"Rent your camper/motorhome through RVShare in LA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":105,
       "slug":"rvshare",
@@ -2619,10 +2471,6 @@
     "cardOverview":"EasyShift will pay you to shop, eat, and explore Los Angeles",
     "cardEarnings":"$7 per task",
     "seoTitle":"Secret shopper jobs in Los Angeles with EasyShift",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":102,
       "slug":"easyshift",
@@ -2688,10 +2536,6 @@
     "cardOverview":"Make money by taking surveys online",
     "cardEarnings":"$2 per survey",
     "seoTitle":"Get paid to take online surveys in Los Angeles - Surveys on the go",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":162,
       "slug":"surveys-on-the-go",
@@ -2757,10 +2601,6 @@
     "cardOverview":"Make money as a home chef in Los Angeles",
     "cardEarnings":"$35 per experience",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":218,
       "slug":"bonappetour",
@@ -2809,75 +2649,6 @@
     }
   },
   {
-    "id":6094,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://itunes.apple.com/us/app/byrd/id1217663917?ls=1\u0026mt=8",
-    "salary":"5",
-    "salaryTranslation":"jobOffer.salaryUnits.photo",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Photographer",
-    "cardOverview":"Take newsworthy photos and videos to earn money",
-    "cardEarnings":"$5 per photo",
-    "seoTitle":"Online photography jobs in Los Angeles, CA – Byrd",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":488,
-      "slug":"byrd",
-      "orgSlug":"byrd",
-      "name":"Byrd",
-      "auth0ClientId":null,
-      "jobPostingEnabled":false,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":40,
-        "slug":"freelance-jobs",
-        "orgSlug":"freelance-jobs",
-        "name":"Freelance",
-        "role":""
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":5937,
     "rating":0.0,
     "ratingCount":0,
@@ -2895,10 +2666,6 @@
     "cardOverview":"Become a delivery driver with Scoobeez in Los Angeles",
     "cardEarnings":"$16 per hour",
     "seoTitle":"Scoobeez in Los Angeles, make $16 per hour",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":501,
       "slug":"scoobeez",
@@ -2947,6 +2714,71 @@
     }
   },
   {
+    "id":6094,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://itunes.apple.com/us/app/byrd/id1217663917?ls=1\u0026mt=8",
+    "salary":"5",
+    "salaryTranslation":"jobOffer.salaryUnits.photo",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Photographer",
+    "cardOverview":"Take newsworthy photos and videos to earn money",
+    "cardEarnings":"$5 per photo",
+    "seoTitle":"Online photography jobs in Los Angeles, CA – Byrd",
+    "partner":{
+      "id":488,
+      "slug":"byrd",
+      "orgSlug":"byrd",
+      "name":"Byrd",
+      "auth0ClientId":null,
+      "jobPostingEnabled":false,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":40,
+        "slug":"freelance-jobs",
+        "orgSlug":"freelance-jobs",
+        "name":"Freelance",
+        "role":""
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":2972,
     "rating":4.25,
     "ratingCount":1,
@@ -2964,10 +2796,6 @@
     "cardOverview":"Make money as a courier and deliver alcohol around Los Angeles",
     "cardEarnings":"$19 per hour",
     "seoTitle":"Alcohol delivery jobs in Los Angeles, CA - Saucey",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":205,
       "slug":"saucey",
@@ -3033,10 +2861,6 @@
     "cardOverview":"Work independent and flexible as a food delivery rider with Caviar in L.A.",
     "cardEarnings":"$18 per hour",
     "seoTitle":"Caviar delivery jobs in Los Angeles, LA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":191,
       "slug":"caviar",
@@ -3102,10 +2926,6 @@
     "cardOverview":"Offer your hair dressing, styling and beauty services and earn money",
     "cardEarnings":"$25-100 per task",
     "seoTitle":"Hair stylist \u0026 beauty jobs in Los Angeles - StyleSeat",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":516,
       "slug":"styleseat",
@@ -3171,10 +2991,6 @@
     "cardOverview":"Earn what you are worth as a Zeel massage therapist",
     "cardEarnings":"$24 per massage",
     "seoTitle":"Zeel massage therapist jobs in Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":115,
       "slug":"zeel",
@@ -3240,10 +3056,6 @@
     "cardOverview":"Become a personal driver in Los Angeles and earn good money",
     "cardEarnings":"$50 per ride",
     "seoTitle":"Personal driver jobs in Los Angeles, CA - Wingz",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":384,
       "slug":"wingz",
@@ -3256,6 +3068,71 @@
       "buttonLabel":null
     },
     "prerequisiteLogic":"[17  AND 54  AND 59 ]",
+    "categories":[
+      {
+        "id":1,
+        "slug":"driver-jobs",
+        "orgSlug":"driver-jobs",
+        "name":"Driving",
+        "role":"Driver"
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
+    "id":3804,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"http://luxe.com/valet-application",
+    "salary":"50",
+    "salaryTranslation":"jobOffer.salaryUnits.day",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Valet Parking",
+    "cardOverview":"Become an on-demand valet with Luxe in Los Angeles",
+    "cardEarnings":"$10 per hour",
+    "seoTitle":"Parking valet jobs in Los Angeles, CA - Luxe",
+    "partner":{
+      "id":213,
+      "slug":"luxe",
+      "orgSlug":"luxe",
+      "name":"Luxe",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
     "categories":[
       {
         "id":1,
@@ -3309,10 +3186,6 @@
     "cardOverview":"Make money helping people with basic computer skills",
     "cardEarnings":"$90 per hour",
     "seoTitle":"IT \u0026 tech support jobs in Los Angeles, NV - HelloTech",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":113,
       "slug":"hellotech",
@@ -3361,75 +3234,6 @@
     }
   },
   {
-    "id":3804,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"http://luxe.com/valet-application",
-    "salary":"50",
-    "salaryTranslation":"jobOffer.salaryUnits.day",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Valet Parking",
-    "cardOverview":"Become an on-demand valet with Luxe in Los Angeles",
-    "cardEarnings":"$10 per hour",
-    "seoTitle":"Parking valet jobs in Los Angeles, CA - Luxe",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":213,
-      "slug":"luxe",
-      "orgSlug":"luxe",
-      "name":"Luxe",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":1,
-        "slug":"driver-jobs",
-        "orgSlug":"driver-jobs",
-        "name":"Driving",
-        "role":"Driver"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":3918,
     "rating":0.0,
     "ratingCount":0,
@@ -3447,10 +3251,6 @@
     "cardOverview":"Deliver fresh laundry with Rinse around Los Angeles",
     "cardEarnings":"$15 per hour",
     "seoTitle":"Laundry delivery jobs in Los Angeles, CA 💰 Rinse",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":206,
       "slug":"rinse",
@@ -3516,10 +3316,6 @@
     "cardOverview":"Teach others your native language from the comfort of your own home",
     "cardEarnings":"$16 per lesson",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":125,
       "slug":"lingoda",
@@ -3585,10 +3381,6 @@
     "cardOverview":"Become a chef with EatWith, create your own schedule and menu",
     "cardEarnings":"$20 per plate",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":24,
       "slug":"eatwith",
@@ -3654,10 +3446,6 @@
     "cardOverview":"Are you a freelancer? Join freelancer to get access to thousands of tasks",
     "cardEarnings":"$17 per task",
     "seoTitle":"Freelancer jobs in Los Angeles, CA - Freelancer.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":35,
       "slug":"freelancer",
@@ -3723,10 +3511,6 @@
     "cardOverview":"Make money as a mover or driver with your truck",
     "cardEarnings":"$25-30 per hour",
     "seoTitle":"Pikkup driver and mover jobs Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":357,
       "slug":"pikkup",
@@ -3799,10 +3583,6 @@
     "cardOverview":"Turn your creativity into cash with Fiverr",
     "cardEarnings":"$5 per task",
     "seoTitle":"Fiverr online jobs (not only) in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":36,
       "slug":"fiverr",
@@ -3868,10 +3648,6 @@
     "cardOverview":"Complete tests and make money whenever you want, where ever with Usertesting",
     "cardEarnings":"$10 per test",
     "seoTitle":"Online testing jobs in Los Angeles - User Testing",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":576,
       "slug":"usertesting",
@@ -3937,10 +3713,6 @@
     "cardOverview":"Rent your home to guests from around the world without having to meet them",
     "cardEarnings":"$700 per week",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":19,
       "slug":"onefinestay",
@@ -4006,10 +3778,6 @@
     "cardOverview":"Rent out your tools with Rentcharlie.com and make easy pocket money",
     "cardEarnings":"$10 per item",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":126,
       "slug":"rentcharlie",
@@ -4075,10 +3843,6 @@
     "cardOverview":"Become a Soothe massage therapist and never run out of clients in Los Angeles",
     "cardEarnings":"$70 per massage",
     "seoTitle":"Massage therapist jobs in Los Angeles, CA | Soothe",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":39,
       "slug":"soothe",
@@ -4144,10 +3908,6 @@
     "cardOverview":"Rent out your boat and make money in Los Angeles",
     "cardEarnings":"$500 a day",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":222,
       "slug":"boatsetter",
@@ -4213,10 +3973,6 @@
     "cardOverview":"Invite travelers all over the world at your table. Share thoughts, stories, ingredients, make money and friends",
     "cardEarnings":"$10 per plate",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":130,
       "slug":"voulezvousdiner",
@@ -4282,10 +4038,6 @@
     "cardOverview":"Carpool with Waze in Los Angeles and get paid",
     "cardEarnings":"$10 per person",
     "seoTitle":"Carpool daily and earn money in Los Angeles, CA – AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":589,
       "slug":"waze",
@@ -4351,10 +4103,6 @@
     "cardOverview":"Open up your own Codester shop and sell your plugins, themes, and PHP scripts!",
     "cardEarnings":"$140 per task",
     "seoTitle":"Graphic design \u0026 programming jobs in Los Angeles, CA - Codester",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":149,
       "slug":"codester",
@@ -4420,10 +4168,6 @@
     "cardOverview":"Become a Jopper and make money doing easy tasks in Los Angeles",
     "cardEarnings":"$25 per hour",
     "seoTitle":"Best micro jobs in Los Angeles, CA - JOP",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":225,
       "slug":"jop",
@@ -4510,10 +4254,6 @@
     "cardOverview":"Become a tour guide in Los Angeles and help make social impact",
     "cardEarnings":"$80 per experience",
     "seoTitle":"U2GUIDE tour guide jobs, Los Angeles - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":360,
       "slug":"u2guide",
@@ -4562,75 +4302,6 @@
     }
   },
   {
-    "id":3907,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"http://us.zilok.com/item/create/?title=Ladder\u0026x=41\u0026y=15",
-    "salary":"30",
-    "salaryTranslation":"jobOffer.salaryUnits.day",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Item and Tool Renter",
-    "cardOverview":"Make easy money renting your unused items in Los Angeles",
-    "cardEarnings":"$30 per day",
-    "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":322,
-      "slug":"zilok",
-      "orgSlug":"zilok",
-      "name":"Zilok",
-      "auth0ClientId":null,
-      "jobPostingEnabled":false,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":13,
-        "slug":"other-rental",
-        "orgSlug":"other-rental",
-        "name":"Other Rental",
-        "role":"Lender"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":6683,
     "rating":0.0,
     "ratingCount":0,
@@ -4648,10 +4319,6 @@
     "cardOverview":"Offer help to seniors and earn money on your schedule",
     "cardEarnings":"$20 per hour",
     "seoTitle":"Senior care jobs in Los Angeles, CA - Envoy",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":614,
       "slug":"envoy",
@@ -4700,46 +4367,42 @@
     }
   },
   {
-    "id":2043,
-    "rating":4.75,
-    "ratingCount":7,
-    "reviewCount":3,
-    "earningsRating":4.67,
-    "lowOnCostRating":4.67,
-    "customerAvailabilityRating":4.71,
-    "easyToStartRating":4.83,
-    "url":"https://www.uber.com/a/join?ec_exp=1\u0026exp=70801t",
-    "salary":"",
-    "salaryTranslation":"",
+    "id":3907,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"http://us.zilok.com/item/create/?title=Ladder\u0026x=41\u0026y=15",
+    "salary":"30",
+    "salaryTranslation":"jobOffer.salaryUnits.day",
     "weight":0.0,
     "cardLabel":"",
-    "cardTitle":"Uber Driver - Partner",
-    "cardOverview":"Sign up as an Uber driver-partner and make extra money by giving rides around Los Angeles.",
-    "cardEarnings":"",
-    "seoTitle":"Uber driver-partner jobs in Los Angeles, US",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
+    "cardTitle":"Item and Tool Renter",
+    "cardOverview":"Make easy money renting your unused items in Los Angeles",
+    "cardEarnings":"$30 per day",
+    "seoTitle":"",
     "partner":{
-      "id":1,
-      "slug":"uber",
-      "orgSlug":"uber",
-      "name":"Uber",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
+      "id":322,
+      "slug":"zilok",
+      "orgSlug":"zilok",
+      "name":"Zilok",
+      "auth0ClientId":null,
+      "jobPostingEnabled":false,
       "jobLocationTelecommuteEnabled":false,
       "prerequisitesRequired":false,
-      "buttonLabel":"Sign up here"
+      "buttonLabel":null
     },
-    "prerequisiteLogic":"[46  AND 77  AND 79  AND 17 ]",
+    "prerequisiteLogic":null,
     "categories":[
       {
-        "id":1,
-        "slug":"driver-jobs",
-        "orgSlug":"driver-jobs",
-        "name":"Driving",
-        "role":"Driver"
+        "id":13,
+        "slug":"other-rental",
+        "orgSlug":"other-rental",
+        "name":"Other Rental",
+        "role":"Lender"
       }],
     "city":{
       "id":38,
@@ -4786,10 +4449,6 @@
     "cardOverview":"Work as a party photographer, entertainer, or musician and never run out of gigs with GigSalad!",
     "cardEarnings":"$100 per party",
     "seoTitle":"GIGSalad: entertainment jobs for musician/DJ in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":156,
       "slug":"gigsalad",
@@ -4838,46 +4497,42 @@
     }
   },
   {
-    "id":2185,
-    "rating":5.0,
-    "ratingCount":1,
-    "reviewCount":1,
-    "earningsRating":5.0,
-    "lowOnCostRating":5.0,
-    "customerAvailabilityRating":5.0,
-    "easyToStartRating":5.0,
-    "url":"https://www.goshare.co/drivers/",
-    "salary":"235",
+    "id":7396,
+    "rating":0.0,
+    "ratingCount":null,
+    "reviewCount":null,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://www.helpr-app.com/become-a-helpr-now",
+    "salary":"115-130",
     "salaryTranslation":"jobOffer.salaryUnits.day",
     "weight":0.0,
     "cardLabel":"",
-    "cardTitle":"Mover",
-    "cardOverview":"Make money helping people move in Los Angeles",
-    "cardEarnings":"$47 per hour",
-    "seoTitle":"Moving jobs in Los Angeles - GoShare",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
+    "cardTitle":"Babysitter",
+    "cardOverview":"Earn money in LA by offering babysitting services",
+    "cardEarnings":"",
+    "seoTitle":"Babysitting jobs in Los Angeles - Helpr - AppJobs",
     "partner":{
-      "id":199,
-      "slug":"goshare",
-      "orgSlug":"goshare",
-      "name":"GoShare",
+      "id":662,
+      "slug":"helpr",
+      "orgSlug":"helpr",
+      "name":"Helpr",
       "auth0ClientId":"",
       "jobPostingEnabled":true,
       "jobLocationTelecommuteEnabled":false,
       "prerequisitesRequired":false,
       "buttonLabel":null
     },
-    "prerequisiteLogic":"[(55  OR 78  OR 54  OR 77  OR 14  OR 4 ) AND 17  AND 59 ]",
+    "prerequisiteLogic":null,
     "categories":[
       {
-        "id":3,
-        "slug":"delivery-jobs",
-        "orgSlug":"delivery-jobs",
-        "name":"Delivery",
-        "role":"Courier"
+        "id":47,
+        "slug":"babysitting-jobs",
+        "orgSlug":"babysitting-jobs",
+        "name":"Babysitting",
+        "role":""
       }],
     "city":{
       "id":38,
@@ -4924,10 +4579,6 @@
     "cardOverview":"Make money in Los Angeles as a truck driver or moving helper",
     "cardEarnings":"$28 per hour",
     "seoTitle":"Lugg jobs in Los Angeles - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":214,
       "slug":"lugg",
@@ -4983,46 +4634,42 @@
     }
   },
   {
-    "id":7396,
-    "rating":0.0,
-    "ratingCount":null,
-    "reviewCount":null,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://www.helpr-app.com/become-a-helpr-now",
-    "salary":"115-130",
+    "id":2185,
+    "rating":5.0,
+    "ratingCount":1,
+    "reviewCount":1,
+    "earningsRating":5.0,
+    "lowOnCostRating":5.0,
+    "customerAvailabilityRating":5.0,
+    "easyToStartRating":5.0,
+    "url":"https://www.goshare.co/drivers/",
+    "salary":"235",
     "salaryTranslation":"jobOffer.salaryUnits.day",
     "weight":0.0,
     "cardLabel":"",
-    "cardTitle":"Babysitter",
-    "cardOverview":"Earn money in LA by offering babysitting services",
-    "cardEarnings":"",
-    "seoTitle":"Babysitting jobs in Los Angeles - Helpr - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
+    "cardTitle":"Mover",
+    "cardOverview":"Make money helping people move in Los Angeles",
+    "cardEarnings":"$47 per hour",
+    "seoTitle":"Moving jobs in Los Angeles - GoShare",
     "partner":{
-      "id":662,
-      "slug":"helpr",
-      "orgSlug":"helpr",
-      "name":"Helpr",
+      "id":199,
+      "slug":"goshare",
+      "orgSlug":"goshare",
+      "name":"GoShare",
       "auth0ClientId":"",
       "jobPostingEnabled":true,
       "jobLocationTelecommuteEnabled":false,
       "prerequisitesRequired":false,
       "buttonLabel":null
     },
-    "prerequisiteLogic":null,
+    "prerequisiteLogic":"[(55  OR 78  OR 54  OR 77  OR 14  OR 4 ) AND 17  AND 59 ]",
     "categories":[
       {
-        "id":47,
-        "slug":"babysitting-jobs",
-        "orgSlug":"babysitting-jobs",
-        "name":"Babysitting",
-        "role":""
+        "id":3,
+        "slug":"delivery-jobs",
+        "orgSlug":"delivery-jobs",
+        "name":"Delivery",
+        "role":"Courier"
       }],
     "city":{
       "id":38,
@@ -5069,10 +4716,6 @@
     "cardOverview":"Make hourly money sharing your skills with others whether you are a writer, illustrator or a developer",
     "cardEarnings":"$30 per hour",
     "seoTitle":"PeoplePerHour online jobs (not only) in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":136,
       "slug":"peopleperhour",
@@ -5138,10 +4781,6 @@
     "cardOverview":"Become a Kanga certified driver and deliver various parcels around Los Angeles",
     "cardEarnings":"",
     "seoTitle":"Earn as a Kanga driver in Los Angeles - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":661,
       "slug":"kanga",
@@ -5207,10 +4846,6 @@
     "cardOverview":"Drive passengers around town and earn money with Curb",
     "cardEarnings":"$16 per hour",
     "seoTitle":"Curb taxi driver jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":94,
       "slug":"curb",
@@ -5276,10 +4911,6 @@
     "cardOverview":"Become a driver in Los Angeles and make good money quickly with Ride Yellow",
     "cardEarnings":"$20 an hour",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":565,
       "slug":"ride-yellow",
@@ -5345,10 +4976,6 @@
     "cardOverview":"Turn your truck into a moving truck and make money in Los Angeles",
     "cardEarnings":"$30 per hour",
     "seoTitle":"Buddytruk jobs Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":358,
       "slug":"buddytruk",
@@ -5421,10 +5048,6 @@
     "cardOverview":"Sell your visual content online and get paid",
     "cardEarnings":"$1-20 per work",
     "seoTitle":"Video production / illustration jobs in Los Angeles - Fotolia",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":588,
       "slug":"fotolia",
@@ -5473,75 +5096,6 @@
     }
   },
   {
-    "id":2044,
-    "rating":4.05,
-    "ratingCount":5,
-    "reviewCount":1,
-    "earningsRating":4.0,
-    "lowOnCostRating":4.0,
-    "customerAvailabilityRating":4.0,
-    "easyToStartRating":4.2,
-    "url":"https://www.uber.com/a/signup/drive/deliver",
-    "salary":null,
-    "salaryTranslation":null,
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Uber Eats Delivery Partner",
-    "cardOverview":"Deliver food in Los Angeles following your own schedule and earn extra money",
-    "cardEarnings":"",
-    "seoTitle":"Uber Eats bike delivery jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":53,
-      "slug":"uber-eats",
-      "orgSlug":"uber-eats",
-      "name":"Uber Eats",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":"Sign up here"
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":3,
-        "slug":"delivery-jobs",
-        "orgSlug":"delivery-jobs",
-        "name":"Delivery",
-        "role":"Courier"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":6952,
     "rating":0.0,
     "ratingCount":0,
@@ -5559,10 +5113,6 @@
     "cardOverview":"Earn money by selling your unused items",
     "cardEarnings":"",
     "seoTitle":"OfferUp jobs in Los Angeles, CA – AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":627,
       "slug":"offerup",
@@ -5628,10 +5178,6 @@
     "cardOverview":"Make money on your own terms as an automotive technician for YourMechanic",
     "cardEarnings":"$60 per hour",
     "seoTitle":"Mechanic jobs in Los Angeles | YourMechanic",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":114,
       "slug":"yourmechanic",
@@ -5697,10 +5243,6 @@
     "cardOverview":"Share your advice and knowledge on anything with anyone and get paid by the minute",
     "cardEarnings":"",
     "seoTitle":"Become online tutor in Los Angeles with TheONE",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":623,
       "slug":"the-one",
@@ -5766,10 +5308,6 @@
     "cardOverview":"Teach students online and earn money",
     "cardEarnings":"$40-250 per hour",
     "seoTitle":"Online teaching jobs with Savvy – AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":596,
       "slug":"savvy",
@@ -5835,10 +5373,6 @@
     "cardOverview":"Make money teaching whatever you are good at in Los Angeles",
     "cardEarnings":"",
     "seoTitle":"Conducting workshops - become an instructor in Los Angeles with Dabble",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":397,
       "slug":"dabble",
@@ -5911,10 +5445,6 @@
     "cardOverview":"Make money doing whatever you are good at in Los Angeles!",
     "cardEarnings":"$10-100 per hour",
     "seoTitle":"Task jobs in LA – become a tasker with Thumbtack!",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":202,
       "slug":"thumbtack",
@@ -6001,10 +5531,6 @@
     "cardOverview":"List your place for free on 9flats and earn money renting out a spare room, flat or mountain hut",
     "cardEarnings":"$100 per night",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":28,
       "slug":"9flats",
@@ -6053,6 +5579,71 @@
     }
   },
   {
+    "id":4771,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://www.udemy.com/join/instructor-signup/",
+    "salary":"85",
+    "salaryTranslation":"jobOffer.salaryUnits.day",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Online teacher",
+    "cardOverview":"Teach the world online and make money",
+    "cardEarnings":"$17 per hour",
+    "seoTitle":"Teach online in Los Angeles with Udemy - AppJobs",
+    "partner":{
+      "id":43,
+      "slug":"udemy",
+      "orgSlug":"udemy",
+      "name":"Udemy",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":18,
+        "slug":"teaching-jobs",
+        "orgSlug":"teaching-jobs",
+        "name":"Teaching",
+        "role":"Teacher"
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":5088,
     "rating":0.0,
     "ratingCount":0,
@@ -6070,10 +5661,6 @@
     "cardOverview":"Earn as an electrician or handyman in Los Angeles with BIZZBY",
     "cardEarnings":"$25 per hour",
     "seoTitle":"Electrician jobs in Los Angeles, CA - Bizzby",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":454,
       "slug":"bizzby",
@@ -6136,75 +5723,6 @@
     }
   },
   {
-    "id":4771,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://www.udemy.com/join/instructor-signup/",
-    "salary":"85",
-    "salaryTranslation":"jobOffer.salaryUnits.day",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Online teacher",
-    "cardOverview":"Teach the world online and make money",
-    "cardEarnings":"$17 per hour",
-    "seoTitle":"Teach online in Los Angeles with Udemy - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":43,
-      "slug":"udemy",
-      "orgSlug":"udemy",
-      "name":"Udemy",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":18,
-        "slug":"teaching-jobs",
-        "orgSlug":"teaching-jobs",
-        "name":"Teaching",
-        "role":"Teacher"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":2026,
     "rating":0.0,
     "ratingCount":0,
@@ -6222,10 +5740,6 @@
     "cardOverview":"Make money on Preply by finding students that are interested in learning your language",
     "cardEarnings":"$15 per lesson",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":132,
       "slug":"preply",
@@ -6291,10 +5805,6 @@
     "cardOverview":"Offer your beauty, makeup and grooming services and earn money!",
     "cardEarnings":"$120 per hour",
     "seoTitle":"Freelance salon jobs in Los Angeles - Stylebee",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":517,
       "slug":"stylebee",
@@ -6343,6 +5853,71 @@
     }
   },
   {
+    "id":2018,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://www.vinted.com/",
+    "salary":"30",
+    "salaryTranslation":"jobOffer.salaryUnits.item",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Seller for clothing items",
+    "cardOverview":"Declutter your wardrobe with Vinted and earn money super fast",
+    "cardEarnings":"$30 per item",
+    "seoTitle":"Sell your clothes online for cash - Vinted - Los Angeles",
+    "partner":{
+      "id":30,
+      "slug":"vinted",
+      "orgSlug":"vinted",
+      "name":"Vinted",
+      "auth0ClientId":"",
+      "jobPostingEnabled":false,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":44,
+        "slug":"selling-online",
+        "orgSlug":"selling-online",
+        "name":"Selling Online",
+        "role":""
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":6037,
     "rating":0.0,
     "ratingCount":0,
@@ -6360,10 +5935,6 @@
     "cardOverview":"Take deliveries in Los Angeles and get paid",
     "cardEarnings":"$17 per hour",
     "seoTitle":"Delivery jobs with Hungr in Los Angeles – AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":544,
       "slug":"hungr",
@@ -6429,10 +6000,6 @@
     "cardOverview":"Help people and businesses move/deliver large and awkward items",
     "cardEarnings":"$1,000 per week",
     "seoTitle":"Delivery and moving services in Los Angeles - Schlep - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":530,
       "slug":"schlep",
@@ -6481,75 +6048,6 @@
     }
   },
   {
-    "id":2018,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://www.vinted.com/",
-    "salary":"30",
-    "salaryTranslation":"jobOffer.salaryUnits.item",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Seller for clothing items",
-    "cardOverview":"Declutter your wardrobe with Vinted and earn money super fast",
-    "cardEarnings":"$30 per item",
-    "seoTitle":"Sell your clothes online for cash - Vinted - Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
-    "partner":{
-      "id":30,
-      "slug":"vinted",
-      "orgSlug":"vinted",
-      "name":"Vinted",
-      "auth0ClientId":"",
-      "jobPostingEnabled":false,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":null,
-    "categories":[
-      {
-        "id":44,
-        "slug":"selling-online",
-        "orgSlug":"selling-online",
-        "name":"Selling Online",
-        "role":""
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":1988,
     "rating":0.0,
     "ratingCount":0,
@@ -6567,10 +6065,6 @@
     "cardOverview":"Meet tourists in Los Angeles and make money the fun way",
     "cardEarnings":"$10 per experience",
     "seoTitle":"Tour guide jobs in Los Angeles - Vayable",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":40,
       "slug":"vayable",
@@ -6643,10 +6137,6 @@
     "cardOverview":"Clean cars and offer exterior/interior detailing services to make money",
     "cardEarnings":"$15 per hour",
     "seoTitle":"Car wash jobs in Los Angeles - Washos",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":486,
       "slug":"washos",
@@ -6712,10 +6202,6 @@
     "cardOverview":"Work as a deliverer/driver for Deliv and earn quick money",
     "cardEarnings":"$12 per hour",
     "seoTitle":"Deliv driver jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":120,
       "slug":"deliv",
@@ -6781,10 +6267,6 @@
     "cardOverview":"Grow your own freelance business with Upwork and never run out of clients",
     "cardEarnings":"$20 per task",
     "seoTitle":"Upwork freelance jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":34,
       "slug":"upwork",
@@ -6850,10 +6332,6 @@
     "cardOverview":"Watch your favorite shows on TV and earn money or gain rewards!",
     "cardEarnings":"",
     "seoTitle":"Get paid to watch TV with Viggle - TV watcher jobs in LA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":617,
       "slug":"viggle",
@@ -6919,10 +6397,6 @@
     "cardOverview":"Rent out your surfboard to surf enthusiasts in Los Angeles",
     "cardEarnings":"€10 per day",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":230,
       "slug":"surfy-nomads",
@@ -6988,10 +6462,6 @@
     "cardOverview":"Take care of pets and make money",
     "cardEarnings":"$10-50 per task",
     "seoTitle":"PetBacker jobs in Los Angeles - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":291,
       "slug":"petbacker",
@@ -7057,10 +6527,6 @@
     "cardOverview":"Make money charging scooters with Bird and get paid daily in Los Angeles",
     "cardEarnings":"",
     "seoTitle":"Bird scooter charger jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":651,
       "slug":"bird",
@@ -7133,10 +6599,6 @@
     "cardOverview":"Become a freelancer with Wonolo in Los Angeles and earn a living!",
     "cardEarnings":"$100 per day",
     "seoTitle":"Freelance works in Los Angeles, CA with Wonolo",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":515,
       "slug":"wonolo",
@@ -7202,10 +6664,6 @@
     "cardOverview":"Make money completing small chores at Takl",
     "cardEarnings":"$35 per task",
     "seoTitle":"Odd jobs in Los Angeles, CA - Takl",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":111,
       "slug":"takl",
@@ -7254,75 +6712,6 @@
     }
   },
   {
-    "id":1958,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"http://www.gigwalk.com/gigwalkers/",
-    "salary":"8",
-    "salaryTranslation":"jobOffer.salaryUnits.job",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Gig jobs",
-    "cardOverview":"Make easy money off small jobs as a Gigwalker in Los Angeles",
-    "cardEarnings":"$8 per task",
-    "seoTitle":"Gigwalk - gig jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
-    "partner":{
-      "id":112,
-      "slug":"gigwalk",
-      "orgSlug":"gigwalk",
-      "name":"Gigwalk",
-      "auth0ClientId":"",
-      "jobPostingEnabled":true,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":"[36 ]",
-    "categories":[
-      {
-        "id":40,
-        "slug":"freelance-jobs",
-        "orgSlug":"freelance-jobs",
-        "name":"Freelance",
-        "role":""
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":2019,
     "rating":0.0,
     "ratingCount":0,
@@ -7340,10 +6729,6 @@
     "cardOverview":"Sell everything handmade on Etsy and start your own online shop",
     "cardEarnings":"$14 per item",
     "seoTitle":"Sign up and learn how to sell on Etsy in Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":42,
       "slug":"etsy",
@@ -7392,6 +6777,71 @@
     }
   },
   {
+    "id":1958,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"http://www.gigwalk.com/gigwalkers/",
+    "salary":"8",
+    "salaryTranslation":"jobOffer.salaryUnits.job",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Gig jobs",
+    "cardOverview":"Make easy money off small jobs as a Gigwalker in Los Angeles",
+    "cardEarnings":"$8 per task",
+    "seoTitle":"Gigwalk - gig jobs in Los Angeles, CA",
+    "partner":{
+      "id":112,
+      "slug":"gigwalk",
+      "orgSlug":"gigwalk",
+      "name":"Gigwalk",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":"[36 ]",
+    "categories":[
+      {
+        "id":40,
+        "slug":"freelance-jobs",
+        "orgSlug":"freelance-jobs",
+        "name":"Freelance",
+        "role":""
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":5909,
     "rating":0.0,
     "ratingCount":0,
@@ -7409,10 +6859,6 @@
     "cardOverview":"Carry out different tasks in Los Angeles and make money",
     "cardEarnings":"$17 per hour",
     "seoTitle":"Freelance gigs in Los Angeles, CA – check Jobble!",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":542,
       "slug":"jobble",
@@ -7478,10 +6924,6 @@
     "cardOverview":"Deliver for Amazon Flex, set your own schedule and be your own boss in Los Angeles",
     "cardEarnings":"$15 per hour",
     "seoTitle":"Amazon Flex delivery driver jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":46,
       "slug":"amazon-flex",
@@ -7547,10 +6989,6 @@
     "cardOverview":"Make money while simply driving around with Wrapify",
     "cardEarnings":"$75 per week",
     "seoTitle":"Advertising on your car - get paid from Wrapify in LA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":116,
       "slug":"wrapify",
@@ -7616,10 +7054,6 @@
     "cardOverview":"Become a nanny for Urbansitter and make money in Los Angeles",
     "cardEarnings":"$600 per week",
     "seoTitle":"Nanny jobs in Los Angeles, CA - UrbanSitter",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":117,
       "slug":"urbansitter",
@@ -7685,10 +7119,6 @@
     "cardOverview":"Become a Roadie driver and get paid to deliver",
     "cardEarnings":"$18 per gig",
     "seoTitle":"Roadie parcel delivery jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":110,
       "slug":"roadie",
@@ -7754,10 +7184,6 @@
     "cardOverview":"Take up cleaning tasks around L.A. and earn good money",
     "cardEarnings":"",
     "seoTitle":"Cleaning jobs in Los Angeles - MaidsApp - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":659,
       "slug":"maidsapp",
@@ -7823,10 +7249,6 @@
     "cardOverview":"Take up driving jobs and earn an income",
     "cardEarnings":"$15-25 per hour",
     "seoTitle":"Driving jobs in Los Angeles - Rapid - AppJobs",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":464,
       "slug":"rapid",
@@ -7875,75 +7297,6 @@
     }
   },
   {
-    "id":3349,
-    "rating":0.0,
-    "ratingCount":0,
-    "reviewCount":0,
-    "earningsRating":0.0,
-    "lowOnCostRating":0.0,
-    "customerAvailabilityRating":0.0,
-    "easyToStartRating":0.0,
-    "url":"https://www.riders-share.com/login",
-    "salary":"140",
-    "salaryTranslation":"jobOffer.salaryUnits.booking",
-    "weight":0.0,
-    "cardLabel":"",
-    "cardTitle":"Motorcycle Renter",
-    "cardOverview":"Rent your motorcycle to fellow bikers in Los Angeles and earn extra cash",
-    "cardEarnings":"$140 per booking",
-    "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
-    "partner":{
-      "id":247,
-      "slug":"riders-share",
-      "orgSlug":"riders-share",
-      "name":"Riders Share",
-      "auth0ClientId":null,
-      "jobPostingEnabled":false,
-      "jobLocationTelecommuteEnabled":false,
-      "prerequisitesRequired":false,
-      "buttonLabel":null
-    },
-    "prerequisiteLogic":"[13]",
-    "categories":[
-      {
-        "id":31,
-        "slug":"private-car-rentals",
-        "orgSlug":"private-car-rentals",
-        "name":"Private Car/Vehicle Rental",
-        "role":"Lender"
-      }],
-    "city":{
-      "id":38,
-      "slug":"los-angeles",
-      "orgSlug":"los-angeles",
-      "name":"Los Angeles",
-      "country":{
-        "countryCode":"us",
-        "currencyCode":"USD",
-        "name":"United States"
-      },
-      "header":"Part-time / weekend jobs in Los Angeles",
-      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
-      "seoKeywords":"",
-      "authPopupHeader":"",
-      "rating":4.5,
-      "ratingCount":69,
-      "earningsRating":4.48,
-      "lowOnCostRating":4.51,
-      "customerAvailabilityRating":4.5,
-      "easyToStartRating":4.6,
-      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
-      "longitude":-118.2436849,
-      "latitude":34.0522342,
-      "geoPlacename":"Los Angeles",
-      "geoRegion":"US-CA"
-    }
-  },
-  {
     "id":233,
     "rating":5.0,
     "ratingCount":1,
@@ -7961,10 +7314,6 @@
     "cardOverview":"Earn money renting your home out to sports fans",
     "cardEarnings":"$500 per week",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":104,
       "slug":"rentlikeachampion",
@@ -8013,7 +7362,7 @@
     }
   },
   {
-    "id":2022,
+    "id":3349,
     "rating":0.0,
     "ratingCount":0,
     "reviewCount":0,
@@ -8021,38 +7370,34 @@
     "lowOnCostRating":0.0,
     "customerAvailabilityRating":0.0,
     "easyToStartRating":0.0,
-    "url":"https://talent.hubstaff.com/signup",
-    "salary":"12",
-    "salaryTranslation":"jobOffer.salaryUnits.job",
+    "url":"https://www.riders-share.com/login",
+    "salary":"140",
+    "salaryTranslation":"jobOffer.salaryUnits.booking",
     "weight":0.0,
     "cardLabel":"",
-    "cardTitle":"Work from home",
-    "cardOverview":"Work as a freelancer and make money off simple gigs",
-    "cardEarnings":"$12 per task",
-    "seoTitle":"Freelance work from home - Hubstaff Talent, Los Angeles",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
+    "cardTitle":"Motorcycle Renter",
+    "cardOverview":"Rent your motorcycle to fellow bikers in Los Angeles and earn extra cash",
+    "cardEarnings":"$140 per booking",
+    "seoTitle":"",
     "partner":{
-      "id":37,
-      "slug":"hubstaff-talent",
-      "orgSlug":"hubstaff-talent",
-      "name":"Hubstaff Talent",
-      "auth0ClientId":"",
+      "id":247,
+      "slug":"riders-share",
+      "orgSlug":"riders-share",
+      "name":"Riders Share",
+      "auth0ClientId":null,
       "jobPostingEnabled":false,
       "jobLocationTelecommuteEnabled":false,
       "prerequisitesRequired":false,
       "buttonLabel":null
     },
-    "prerequisiteLogic":null,
+    "prerequisiteLogic":"[13]",
     "categories":[
       {
-        "id":40,
-        "slug":"freelance-jobs",
-        "orgSlug":"freelance-jobs",
-        "name":"Freelance",
-        "role":""
+        "id":31,
+        "slug":"private-car-rentals",
+        "orgSlug":"private-car-rentals",
+        "name":"Private Car/Vehicle Rental",
+        "role":"Lender"
       }],
     "city":{
       "id":38,
@@ -8099,10 +7444,6 @@
     "cardOverview":"Become a dog walker for Wag! in Los Angeles!",
     "cardEarnings":"$16 per hour",
     "seoTitle":"Wag! dog walking jobs in Los Angeles, CA",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":203,
       "slug":"wag",
@@ -8151,6 +7492,71 @@
     }
   },
   {
+    "id":2022,
+    "rating":0.0,
+    "ratingCount":0,
+    "reviewCount":0,
+    "earningsRating":0.0,
+    "lowOnCostRating":0.0,
+    "customerAvailabilityRating":0.0,
+    "easyToStartRating":0.0,
+    "url":"https://talent.hubstaff.com/signup",
+    "salary":"12",
+    "salaryTranslation":"jobOffer.salaryUnits.job",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Work from home",
+    "cardOverview":"Work as a freelancer and make money off simple gigs",
+    "cardEarnings":"$12 per task",
+    "seoTitle":"Freelance work from home - Hubstaff Talent, Los Angeles",
+    "partner":{
+      "id":37,
+      "slug":"hubstaff-talent",
+      "orgSlug":"hubstaff-talent",
+      "name":"Hubstaff Talent",
+      "auth0ClientId":"",
+      "jobPostingEnabled":false,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":null
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":40,
+        "slug":"freelance-jobs",
+        "orgSlug":"freelance-jobs",
+        "name":"Freelance",
+        "role":""
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
     "id":1979,
     "rating":0.0,
     "ratingCount":0,
@@ -8168,10 +7574,6 @@
     "cardOverview":"List your parking spot on SPOT and make money",
     "cardEarnings":"$15 a day",
     "seoTitle":"",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":false
-    },
     "partner":{
       "id":121,
       "slug":"parkeasier",
@@ -8237,10 +7639,6 @@
     "cardOverview":"Earn money as a local tour guide in Los Angeles",
     "cardEarnings":"",
     "seoTitle":"Local tour guide jobs in Los Angeles, CA – ToursByLocals",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":676,
       "slug":"toursbylocals",
@@ -8306,10 +7704,6 @@
     "cardOverview":"Make money providing care services to pets, children and families",
     "cardEarnings":"$8 per hour",
     "seoTitle":"Childcare \u0026 petcare jobs in Los Angeles, CA - Care.com",
-    "user":{
-      "prerequisitesAmount":null,
-      "fulfill":true
-    },
     "partner":{
       "id":41,
       "slug":"care",
@@ -8343,6 +7737,136 @@
         "orgSlug":"pet-sitting-walking-jobs",
         "name":"Pet Sitting/Walking",
         "role":"Sitter"
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
+    "id":2043,
+    "rating":4.75,
+    "ratingCount":7,
+    "reviewCount":3,
+    "earningsRating":4.67,
+    "lowOnCostRating":4.67,
+    "customerAvailabilityRating":4.71,
+    "easyToStartRating":4.83,
+    "url":"https://www.uber.com/a/join?ec_exp=1\u0026exp=70801t",
+    "salary":"",
+    "salaryTranslation":"",
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Uber Driver - Partner",
+    "cardOverview":"Sign up as an Uber driver-partner and make extra money by giving rides around Los Angeles.",
+    "cardEarnings":"",
+    "seoTitle":"Uber driver-partner jobs in Los Angeles, US",
+    "partner":{
+      "id":1,
+      "slug":"uber",
+      "orgSlug":"uber",
+      "name":"Uber",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":"Sign up here"
+    },
+    "prerequisiteLogic":"[46  AND 77  AND 79  AND 17 ]",
+    "categories":[
+      {
+        "id":1,
+        "slug":"driver-jobs",
+        "orgSlug":"driver-jobs",
+        "name":"Driving",
+        "role":"Driver"
+      }],
+    "city":{
+      "id":38,
+      "slug":"los-angeles",
+      "orgSlug":"los-angeles",
+      "name":"Los Angeles",
+      "country":{
+        "countryCode":"us",
+        "currencyCode":"USD",
+        "name":"United States"
+      },
+      "header":"Part-time / weekend jobs in Los Angeles",
+      "seoDescription":"Browse hundreds of part-time / weekend / student jobs in Los Angeles right now! 💰 Here you can find all best app-based jobs - work for the companies like Uber, Amazon Flex, Instacart or rent your home/car/equipment through Airbnb, RVShare, Spinlister \u0026 many other services. 💰 Don't apply for job - sign up for it!",
+      "seoKeywords":"",
+      "authPopupHeader":"",
+      "rating":4.5,
+      "ratingCount":69,
+      "earningsRating":4.48,
+      "lowOnCostRating":4.51,
+      "customerAvailabilityRating":4.5,
+      "easyToStartRating":4.6,
+      "overview":"\u003cstrong\u003eLos Angeles is the center of the American film and television industry\u003c/strong\u003e. Not far from the legendary Hollywood lettering, studios like \u003cstrong\u003eParamount Pictures, Universal and Warner Brothers\u003c/strong\u003e offer guided \u003cstrong\u003ebehind the scenes tours\u003c/strong\u003e. \u003cbr\u003e\u003cbr\u003eThe \u003cstrong\u003eTCL Chinese Theatre\u003c/strong\u003e on Hollywood Boulevard features the \u003cstrong\u003ehand and footprints of famous actors\u003c/strong\u003e, while the \u003cstrong\u003eWalk of Fame\u003c/strong\u003e honors thousands of Hollywood celebrities. In L.A., numerous sellers offer \u003cstrong\u003ecity maps\u003c/strong\u003e which show the houses of the stars and starlets.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles_xj8q.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\u003cbr\u003e\u003cbr\u003eLos Angeles offers everything, from spotting stars on Rodeo Drive to stargazing at the Griffith Observatory, so fasten your seat belt and enjoy the ride!\u003cbr\u003e\u003cbr\u003eThere are so many great places to visit and things to see, it can be hard knowing where to start and what see.\n\n\u003ch2\u003eVenice Beach\u003c/h2\u003e\n\nEnjoy the eccentric spirit at Venice beach and live out the bohemian lifestyle while relaxing at the beach or strolling along the boardwalk. \n\n\u003ch2\u003eGriffith Observatory\u003c/h2\u003e\n\nThe building itself is an eye catcher - and the stunning view of the city from Griffith Park makes it worthy of a visit whether you\u0026#39;re a space buff or not. You can even see the Hollywood letters from here!\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles2_ycah.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e\n\n\u003ch2\u003eDisneyland\u003c/h2\u003e\n\nOf course I have to mention this popular fun park! Although a bit of a drive from LA, Disneyland provides fun for every age! Never forget: You’re never too old for Disneyland!\u003cbr\u003e\u003cbr\u003eThe American Dream is still big in the US, also in L.A. If you want to make a living in this busy city, you should find a job that fits perfectly to your circumstances. Have a look at \u003ca href=\"%{https://www.appjobs.com/los-angeles}\" \u003eAppJobs\u0026#39; website\u003c/a\u003e for more information and possible job offers.\u003cbr\u003e\u003cbr\u003e\u003cimg src=\"https://res.cloudinary.com/hhgz8qnrm/image/upload/t_optimized/city_pages_los_angeles1_vkb9.jpg\" title=\"Los Angeles City Pages\" alt=\"Los Angeles City Pages\" /\u003e",
+      "longitude":-118.2436849,
+      "latitude":34.0522342,
+      "geoPlacename":"Los Angeles",
+      "geoRegion":"US-CA"
+    }
+  },
+  {
+    "id":2044,
+    "rating":4.05,
+    "ratingCount":5,
+    "reviewCount":1,
+    "earningsRating":4.0,
+    "lowOnCostRating":4.0,
+    "customerAvailabilityRating":4.0,
+    "easyToStartRating":4.2,
+    "url":"https://www.uber.com/a/signup/drive/deliver",
+    "salary":null,
+    "salaryTranslation":null,
+    "weight":0.0,
+    "cardLabel":"",
+    "cardTitle":"Uber Eats Delivery Partner",
+    "cardOverview":"Deliver food in Los Angeles following your own schedule and earn extra money",
+    "cardEarnings":"",
+    "seoTitle":"Uber Eats bike delivery jobs in Los Angeles, CA",
+    "partner":{
+      "id":53,
+      "slug":"uber-eats",
+      "orgSlug":"uber-eats",
+      "name":"Uber Eats",
+      "auth0ClientId":"",
+      "jobPostingEnabled":true,
+      "jobLocationTelecommuteEnabled":false,
+      "prerequisitesRequired":false,
+      "buttonLabel":"Sign up here"
+    },
+    "prerequisiteLogic":null,
+    "categories":[
+      {
+        "id":3,
+        "slug":"delivery-jobs",
+        "orgSlug":"delivery-jobs",
+        "name":"Delivery",
+        "role":"Courier"
       }],
     "city":{
       "id":38,
